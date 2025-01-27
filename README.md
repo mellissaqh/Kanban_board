@@ -1,2 +1,3 @@
 School project made in a course called Webbdevelopment 1.
-I learned HTML, CSS and Javascript through this course
+I made a Kanban table as my final project.
+I learned HTML, CSS and Javascript through this course.
